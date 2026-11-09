@@ -1,0 +1,29 @@
+name: Idea or request
+description: Suggest an improvement, a new project, or a topic for a future meetup.
+labels: ["enhancement"]
+body:
+  - type: textarea
+    id: idea
+    attributes:
+      label: What's your idea?
+      description: Describe what you would like to see.
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: Why does it matter?
+      description: What problem does it solve or who would benefit?
+    validations:
+      required: true
+  - type: textarea
+    id: approach
+    attributes:
+      label: Possible approach
+      description: Optional. Any thoughts on how it could be done.
+  - type: checkboxes
+    id: help
+    attributes:
+      label: Getting involved
+      options:
+        - label: I'd be willing to help make this happen

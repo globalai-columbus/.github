@@ -1,0 +1,39 @@
+name: Governance proposal
+description: Propose a change to how the community is organized, its roles, or its rules.
+labels: ["governance"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Governance changes are discussed in the open. See [GOVERNANCE.md](https://github.com/globalai-columbus/.github/blob/main/GOVERNANCE.md) for how decisions are made.
+        To report a Code of Conduct concern, contact a maintainer privately instead of opening an issue.
+  - type: dropdown
+    id: area
+    attributes:
+      label: Area
+      options:
+        - Governance
+        - Code of Conduct
+        - Roles and teams
+        - Meetups and events
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposal
+      description: What change are you proposing?
+    validations:
+      required: true
+  - type: textarea
+    id: rationale
+    attributes:
+      label: Rationale
+      description: Why is this change needed? Who is affected?
+    validations:
+      required: true
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternatives considered
