@@ -4,5 +4,5 @@ contact_links:
     url: https://discord.gg/uvsQFTadX
     about: Ask questions and chat with the community on Discord.
   - name: Code of Conduct concerns
-    url: https://github.com/globalai-columbus/.github/blob/main/CODE_OF_CONDUCT.md#reporting-and-enforcement
+    url: https://github.com/globalai-columbus/.github/blob/main/CODE_OF_CONDUCT.md#enforcement
     about: Report concerns privately to a maintainer. Please do not open a public issue.
