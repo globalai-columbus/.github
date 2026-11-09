@@ -19,7 +19,7 @@ This Code of Conduct applies in community spaces, including GitHub repositories 
 
 ## Reporting and enforcement
 
-If you experience or witness unacceptable behavior, contact a community maintainer privately through GitHub. Please do not report sensitive concerns in a public issue or discussion. Maintainers will review reports, protect the privacy of those involved as much as possible, and take appropriate action.
+If you experience or witness unacceptable behavior, contact a community maintainer privately. Please do not report sensitive concerns in a public issue or discussion. Maintainers will review reports, protect the privacy of those involved as much as possible, and take appropriate action.
 
 Depending on the circumstances, maintainers may issue a warning, remove content, restrict participation, or take other action they consider appropriate. Retaliation against someone for raising a concern in good faith is not acceptable.
 
